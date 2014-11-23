@@ -5,7 +5,8 @@ Run analysis for coursera project, Tidy data is shown by next variables logic an
 
 Original set of data was selected according to mean and standar deviation, Other variables where ignored. No need to describe new variables is need, because not a single vector where created, all are from original file.
 
- Code book:
+ Codes of used functions.
+ 
  #mean()= mean of variables.
  
  #std()= Standar deviation.
