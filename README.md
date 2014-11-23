@@ -5,7 +5,7 @@ Run analysis for coursera project, Tidy data is shown by next variables logic an
 
 Original set of data was selected according to mean and standar deviation, Other variables where ignored.
 
-
+ 
 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
